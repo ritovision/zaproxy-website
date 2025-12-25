@@ -1,4 +1,5 @@
 .market-table {
+    @extend .sticky;
 
     .no-border {
         border: none;
