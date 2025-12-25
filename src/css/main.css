@@ -42,6 +42,7 @@
 @import 'footer';
 @import 'form.scss';
 @import 'effects.scss';
+@import 'tables';
 @import 'pages/addons.scss';
 @import 'pages/homepage.scss';
 @import 'pages/download.scss';
