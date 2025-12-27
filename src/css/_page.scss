@@ -30,18 +30,6 @@ a {
   text-decoration: none;
 }
 
-/* Utility for tables with sticky header scrolling */
-.sticky-table {
-  max-height: 80vh;
-  overflow-y: auto;
-
-  thead th {
-    position: sticky;
-    top: 0;
-    z-index: 3;
-  }
-}
-
 table {
   display: inline-block;
   width: auto !important;
