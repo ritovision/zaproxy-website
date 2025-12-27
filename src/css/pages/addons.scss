@@ -1,7 +1,7 @@
 .market-table {
-    @extend .sticky;
+  @extend .sticky-table;
 
-    .no-border {
-        border: none;
-    }
+  .no-border {
+    border: none;
+  }
 }
